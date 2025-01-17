@@ -1,0 +1,7 @@
+bs4
+geckodriver_autoinstaller
+ipykernel
+pandas
+selenium
+time
+tqdm
