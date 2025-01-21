@@ -1,4 +1,6 @@
 bs4
+flask
+flask-sqlalchemy
 geckodriver_autoinstaller
 ipykernel
 pandas
